@@ -156,9 +156,9 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className="mt-8 text-center text-gray-500 text-sm">
+      {/* <footer className="mt-8 text-center text-gray-500 text-sm">
         <p>Built with Next.js and Tailwind CSS | Using Web Speech API</p>
-      </footer>
+      </footer> */}
     </main>
   );
 }
