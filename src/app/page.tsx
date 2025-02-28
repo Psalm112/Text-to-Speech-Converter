@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import { FaPlay, FaPause, FaStop, FaDownload } from "react-icons/fa";
+// import { FaPlay, FaPause, FaStop, FaDownload } from "react-icons/fa";
 import VoiceSelector from "@/components/VoiceSelector";
 import TextInput from "@/components/TextInput";
 import ControlPanel from "@/components/ControlPanel";
